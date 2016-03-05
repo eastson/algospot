@@ -2,4 +2,6 @@
 algorithm problem
 
 <<<solved problem>>>
-NUMBERGAME
+numbergame
+grid
+quantization
